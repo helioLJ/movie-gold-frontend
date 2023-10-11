@@ -1,4 +1,4 @@
-#Front-end Movie App using React, Bootstrap, and Axios
+# Front-end Movie App using React, Bootstrap, and Axios
 This is a front-end web application built with React, Bootstrap, and Axios that interacts with a back-end API related to movies. With this application, users can view a carousel of movies, watch trailers, and post reviews for their favorite films.
 
 ## Table of Contents
